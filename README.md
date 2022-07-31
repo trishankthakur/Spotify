@@ -21,21 +21,12 @@ A basic CRUD Website.
 
 
 
-![Insert](https://user-images.githubusercontent.com/45159091/182046474-cf0b43a4-9f63-4bd1-a57f-7e4f28b87fa1.PNG)
+![Insert](https://user-images.githubusercontent.com/45159091/182047137-658b02fe-c6b2-4fae-ad68-ad96e9b13c8f.PNG)
 
 
 
 
-![Insert](https://user-images.githubusercontent.com/45159091/182047074-7f8a1fe7-fd92-4c82-bca9-fc2a3f564f13.jpg)
-
-
-
-
-
-
-
-
-![After Insert](https://user-images.githubusercontent.com/45159091/182046478-ef2b051c-7d93-4805-bc0b-924926ef756b.PNG)
+![dd](https://user-images.githubusercontent.com/45159091/182047140-a410b23f-77c4-4121-853a-a626c602dfed.jpg)
 
 
 
