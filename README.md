@@ -30,10 +30,6 @@ A basic CRUD Website.
 
 
 
-![Insert](https://user-images.githubusercontent.com/45159091/182046474-cf0b43a4-9f63-4bd1-a57f-7e4f28b87fa1.PNG)
-
-
-
 
 ![After Insert](https://user-images.githubusercontent.com/45159091/182046478-ef2b051c-7d93-4805-bc0b-924926ef756b.PNG)
 
