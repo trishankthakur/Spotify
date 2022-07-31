@@ -22,7 +22,9 @@ A basic CRUD Website.
 
 
 
-![TABLE](https://user-images.githubusercontent.com/45159091/182047035-4b68d6e3-bdf3-49d8-bb80-1001085a6e78.jpg)
+
+
+![Insert](https://user-images.githubusercontent.com/45159091/182047074-7f8a1fe7-fd92-4c82-bca9-fc2a3f564f13.jpg)
 
 
 
