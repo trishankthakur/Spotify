@@ -3,6 +3,19 @@ A basic CRUD Website.
 
 Built With HTML,CSS,JS,SQL
 
+Getting Started -
+
+1.Clone the repository
+
+2.Download XAMP. 
+
+3.Start PHP and My SQL Server. 
+
+4.Upload DB.sql file in SQL.
+
+5.Now you are good to go.
+
+
 ![Screenshot (23)](https://user-images.githubusercontent.com/45159091/182046456-956a3c94-e847-41da-aabf-15b4b371e617.png)
 
 
