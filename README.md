@@ -1,6 +1,8 @@
 # Spotify Website - to listen songs
 A basic CRUD Website.
 
+Built With HTML,CSS,JS,SQL
+
 ![Screenshot (23)](https://user-images.githubusercontent.com/45159091/182046456-956a3c94-e847-41da-aabf-15b4b371e617.png)
 
 
