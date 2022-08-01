@@ -5,8 +5,7 @@ Built With HTML,CSS,JS,SQL
 
 Getting Started -
 
-1. Clone the repository 
-  - git clone https://github.com/trishankthakur/Spotify.git
+1. Clone the repository- git clone https://github.com/trishankthakur/Spotify.git
 
 2. Download XAMP. 
 
