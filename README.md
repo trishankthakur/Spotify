@@ -20,13 +20,15 @@ A basic CRUD Website.
 
 
 
-
-![Insert](https://user-images.githubusercontent.com/45159091/182047137-658b02fe-c6b2-4fae-ad68-ad96e9b13c8f.PNG)
-
+![Browse](https://user-images.githubusercontent.com/45159091/182093197-dea41c82-accf-41b1-a75f-87fab68c4238.jpg)
 
 
 
-![dd](https://user-images.githubusercontent.com/45159091/182047140-a410b23f-77c4-4121-853a-a626c602dfed.jpg)
+
+![after add](https://user-images.githubusercontent.com/45159091/182093234-6d4ea0c9-513f-47ed-b522-9f7d8fe62364.jpg)
+
+
+
 
 
 
@@ -37,7 +39,7 @@ A basic CRUD Website.
 
 
 
-![TABLE](https://user-images.githubusercontent.com/45159091/182047041-42bc46f8-d9d3-4703-8148-f9755d0f55e7.png)
+![Del song](https://user-images.githubusercontent.com/45159091/182093279-13017b4b-e22d-4d2c-a3b1-dde422fe5a82.jpg)
 
 
 
